@@ -21,15 +21,15 @@
 ## 🛠️ Стек технологий
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" />
+  <img src="https://img.icons8.com/color/144/000000/react-native.png" alt="React"/>
+  <img src="https://img.icons8.com/color/144/000000/javascript.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/144/000000/typescript.png" alt="TypeScript"/>
+  <img src="https://img.icons8.com/color/144/000000/html-5.png" alt="HTML5"/>
+  <img src="https://img.icons8.com/color/144/000000/css3.png" alt="CSS3"/>
+  <img src="https://img.icons8.com/color/144/000000/sass.png" alt="SCSS"/>
+  <img src="https://img.icons8.com/color/144/000000/redux.png" alt="Redux"/>
+  <img src="https://img.icons8.com/color/144/000000/jest.png" alt="Jest"/>
+  <img src="https://img.icons8.com/color/144/000000/cypress-test-automation.png" alt="Cypress"/>
 </p>
   
 ## 🌱 О себе
