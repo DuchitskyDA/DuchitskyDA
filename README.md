@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  <img src="https://img.icons8.com/ios/50/000000/open-door.png" width="20"/> Я сейчас активно ищу работу. <a href="https://hh.ru/applicant/resumes/view?resume=a363a3e8ff0cb25bdd0039ed1f424e6f58314e">Вот мое резюме</a>.
+  Я сейчас активно ищу работу. <a href="https://hh.ru/applicant/resumes/view?resume=a363a3e8ff0cb25bdd0039ed1f424e6f58314e">Вот мое резюме</a>.
 </p>
 
 <p align="center">
