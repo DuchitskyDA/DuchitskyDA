@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/danila-duchitsky-a63771314" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/danila-duchitsky-a63771314" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
   <a href="mailto:danila.f1n1@yandex.ru"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
