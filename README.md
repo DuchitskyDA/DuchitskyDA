@@ -28,8 +28,6 @@
   <img src="https://img.icons8.com/color/144/000000/css3.png" alt="CSS3"/>
   <img src="https://img.icons8.com/color/144/000000/sass.png" alt="SCSS"/>
   <img src="https://img.icons8.com/color/144/000000/redux.png" alt="Redux"/>
-  <img src="https://iconape.com/wp-content/files/gm/82643/svg/jest-logo.svg" alt="Jest" width="144" height="144"/>
-  <img src="https://iconape.com/wp-content/files/gm/82646/svg/cypress.svg" alt="Cypress" width="144" height="144"/>
 </p>
   
 ## 🌱 О себе
