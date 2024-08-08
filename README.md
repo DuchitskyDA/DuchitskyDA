@@ -37,5 +37,5 @@
 ## 📫 Как связаться со мной
 
 - LinkedIn: [https://linkedin.com/in/danila-duchitsky-a63771314](https://linkedin.com/in/danila-duchitsky-a63771314)
-- Email: [your.email@example.com](mailto:danila.f1n1@yandex.ru)
+- Email: [danila.f1n1@yandex.ru](mailto:danila.f1n1@yandex.ru)
 - Telegram: [https://t.me/shausnsn](https://t.me/shausnsn)
