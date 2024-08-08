@@ -16,22 +16,21 @@
 
 ## 🛠️ Мой стек технологий
 
-- **Языки и фреймворки:**
-  - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
-  - ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
-  - ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat)
-  - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-  - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-  - ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white&style=flat)
+### Языки и фреймворки:
+<p align="center">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" />
+</p>
 
-- **Тестирование:**
-  - ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=flat)
-  - ![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&style=flat)
-
-- **Инструменты и платформы:**
-  - ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-  - ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
-  - ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+### Тестирование:
+<p align="center">
+  <img src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" />
+</p>
   
 ## 🌱 О себе
 
