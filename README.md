@@ -21,7 +21,7 @@
 ## 🛠️ Стек технологий
 
 <p align="center">
-  <img src="https://img.icons8.com/color/144/000000/react-native.png" alt="React"/>
+  <img src="https://img.icons8.com/color/120/000000/react-native.png" alt="React"/>
   <img src="https://img.icons8.com/color/144/000000/javascript.png" alt="JavaScript"/>
   <img src="https://img.icons8.com/color/144/000000/typescript.png" alt="TypeScript"/>
   <img src="https://img.icons8.com/color/144/000000/html-5.png" alt="HTML5"/>
