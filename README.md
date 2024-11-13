@@ -9,15 +9,6 @@
   Мой основной стек технологий включает React, TypeScript, Redux, а также инструменты для тестирования, такие как Jest и Cypress.
 </p>
 
-<p align="left">
-  Я сейчас активно ищу работу. <a href="https://hh.ru/applicant/resumes/view?resume=a363a3e8ff0cb25bdd0039ed1f424e6f58314e">Вот мое резюме</a>.
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/danila-duchitsky-a63771314" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
-  <a href="mailto:danila.f1n1@yandex.ru"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-</p>
-
 ## 🛠️ Стек технологий
 
 <p align="center">
@@ -36,6 +27,4 @@
 
 ## 📫 Как связаться со мной
 
-- LinkedIn: [ссылка](https://linkedin.com/in/danila-duchitsky-a63771314)
-- Email: [ссылка](mailto:danila.f1n1@yandex.ru)
 - Telegram: [ссылка](https://t.me/shausnsn)
