@@ -7,7 +7,6 @@
 ## 🛠️ Основной стек технологий
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="Next"/>
   <img src="https://img.icons8.com/color/120/000000/react-native.png" alt="React"/>
   <img src="https://img.icons8.com/color/120/000000/javascript.png" alt="JavaScript"/>
   <img src="https://img.icons8.com/color/120/000000/typescript.png" alt="TypeScript"/>
